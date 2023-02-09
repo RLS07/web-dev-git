@@ -2,9 +2,4 @@ this is my 1st commit!
 
 AND HERE WE GO with commit no 2!
 
-
-another commit
-
-sewy
-
-another one
+changes in file
